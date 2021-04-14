@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="ToReproduce12_Tw54588versionedSettingsCannotBeChangedInUi" uuid="0ed6f7ca-f081-4c07-a6b0-bff2aa9318dc" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2020.1/project-config.xsd">
+  <name>Read Only Dsl from scratch</name>
+  <parameters />
+  <project-extensions>
+    <extension id="PROJECT_EXT_92" type="versionedSettings">
+      <parameters>
+        <param name="buildSettings" value="ALWAYS_USE_CURRENT" />
+        <param name="credentialsStorageType" value="credentialsJSON" />
+        <param name="enabled" value="true" />
+        <param name="rootId" value="ToReproduce12_Tw54588versionedSettingsCannotBeChangedInUi_ReadOnlyDslFromScratch_HttpsGithubComIyankeReadOnlyDslFromScratchRefsHeadsMain" />
+        <param name="showChanges" value="false" />
+        <param name="twoWaySynchronization" value="false" />
+      </parameters>
+    </extension>
+  </project-extensions>
+  <cleanup />
+</project>
+
