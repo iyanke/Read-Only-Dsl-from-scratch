@@ -10,7 +10,6 @@
         <param name="enabled" value="true" />
         <param name="rootId" value="ToReproduce12_Tw54588versionedSettingsCannotBeChangedInUi_ReadOnlyDslFromScratch_HttpsGithubComIyankeReadOnlyDslFromScratchRefsHeadsMain" />
         <param name="showChanges" value="false" />
-        <param name="twoWaySynchronization" value="false" />
       </parameters>
     </extension>
   </project-extensions>
